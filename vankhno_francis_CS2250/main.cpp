@@ -9,6 +9,7 @@
 * file. A bookstore function that will tell you what you can
 * afford based on a user input price. Lastly, a lowest grade
 * calculator that will return the lowest grade from an input file
+vfffffffff
 */
 #include <iostream>
 #include <fstream>
